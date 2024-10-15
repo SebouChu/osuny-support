@@ -5,6 +5,6 @@ width: 832
 height: 251
 ratio: 3.314741035856574
 format: landscape
-url: https://demo.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjY0MzNmZmVlLTdiNWUtNDdhMC1hYzk2LTA4MmY5YjVmMWM0MSIsInB1ciI6ImJsb2JfaWQifX0=--29659b8514aed7f85fec67026a3d1b8fcf4a7c9c/Universite-Bordeaux-NB-07.svg
-direct_url: https://osuny.s3.fr-par.scw.cloud/u6ycx56n8vthzslp15npqu1qabun
+url: http://demo.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjY0MzNmZmVlLTdiNWUtNDdhMC1hYzk2LTA4MmY5YjVmMWM0MSIsInB1ciI6ImJsb2JfaWQifX0=--1e8bf81dc0a87049e01833f9f2768e52c63afecd/Universite-Bordeaux-NB-07.svg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/u6ycx56n8vthzslp15npqu1qabun
 
