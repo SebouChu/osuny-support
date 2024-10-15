@@ -5,6 +5,6 @@ width: 800
 height: 400
 ratio: 2.0
 format: landscape
-url: https://demo.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImE5MGVkOTEwLTFiNWUtNGRkZi1iNDcwLWRkYjVjOTEzZGU3MyIsInB1ciI6ImJsb2JfaWQifX0=--3e1920d39a3428330f288af469c920ff1d61b528/en-tete-frise-chrono.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/gfslspgl8gtyctpenmb3gmpluu8c
+url: http://demo.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImE5MGVkOTEwLTFiNWUtNGRkZi1iNDcwLWRkYjVjOTEzZGU3MyIsInB1ciI6ImJsb2JfaWQifX0=--eafba5d6ec8cff111cce14041f70b99499b7df8a/en-tete-frise-chrono.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/gfslspgl8gtyctpenmb3gmpluu8c
 
