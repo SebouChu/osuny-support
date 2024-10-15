@@ -5,6 +5,6 @@ width: 3543
 height: 2365
 ratio: 1.4980972515856237
 format: landscape
-url: https://demo.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjVlZWI3YTg1LWQ3NGItNGY4MC05YWMzLTY1NzNlNmM2ZDQ3ZiIsInB1ciI6ImJsb2JfaWQifX0=--1227a2f155a0c29b83a8658d91ef55e34101468a/ilya-pavlov-OqtafYT5kTw-unsplash.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/zcr1jf1rigt6bln2dluztecqdyhm
+url: http://demo.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjVlZWI3YTg1LWQ3NGItNGY4MC05YWMzLTY1NzNlNmM2ZDQ3ZiIsInB1ciI6ImJsb2JfaWQifX0=--6d295be2711296e02b2fec8f28b6a4a45eda3c92/ilya-pavlov-OqtafYT5kTw-unsplash.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/zcr1jf1rigt6bln2dluztecqdyhm
 
