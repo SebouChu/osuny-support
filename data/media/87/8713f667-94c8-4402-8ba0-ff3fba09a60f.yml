@@ -5,6 +5,6 @@ width: 529
 height: 529
 ratio: 1.0
 format: square
-url: https://demo.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6Ijg3MTNmNjY3LTk0YzgtNDQwMi04YmEwLWZmM2ZiYTA5YTYwZiIsInB1ciI6ImJsb2JfaWQifX0=--6053f49d895fcc52c1590d76af6126c5f7a688dc/Screenshot-2023-03-30-at-18-08-39-Arborescence-Osuny.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/c410oov0h97cf4qxxwcx6cojkgt3
+url: http://demo.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6Ijg3MTNmNjY3LTk0YzgtNDQwMi04YmEwLWZmM2ZiYTA5YTYwZiIsInB1ciI6ImJsb2JfaWQifX0=--e1ac2c8c1f834a330258a0ad00d94d93e0dd8df3/Screenshot-2023-03-30-at-18-08-39-Arborescence-Osuny.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/c410oov0h97cf4qxxwcx6cojkgt3
 
