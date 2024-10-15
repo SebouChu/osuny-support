@@ -2,6 +2,6 @@
 name: ambient.mp3
 size: 660429
 format: square
-url: https://demo.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImFiZjlhZTM4LThiMGMtNDcwYS1iNDlmLTMwNWVkMzI4MDVhNyIsInB1ciI6ImJsb2JfaWQifX0=--1c942722e070104332882bd1baab8302dc9bb065/ambient.mp3
-direct_url: https://osuny.s3.fr-par.scw.cloud/670j9mi27xzrvlnk4e110p4if578
+url: http://demo.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImFiZjlhZTM4LThiMGMtNDcwYS1iNDlmLTMwNWVkMzI4MDVhNyIsInB1ciI6ImJsb2JfaWQifX0=--636aa75ad4942a9f3b8c4a732d8aeb172c37e013/ambient.mp3
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/670j9mi27xzrvlnk4e110p4if578
 

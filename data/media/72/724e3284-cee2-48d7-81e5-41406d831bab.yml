@@ -5,6 +5,6 @@ width: 2688
 height: 4743
 ratio: 0.5667299177735611
 format: portrait
-url: https://demo.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjcyNGUzMjg0LWNlZTItNDhkNy04MWU1LTQxNDA2ZDgzMWJhYiIsInB1ciI6ImJsb2JfaWQifX0=--b6c15f7c1bf632268c0e33a4a86ca93b7af399ef/Osuny-tableaudebord-personnes.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/rhbbtecacmzxk07xn6whyfrk65ww
+url: http://demo.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjcyNGUzMjg0LWNlZTItNDhkNy04MWU1LTQxNDA2ZDgzMWJhYiIsInB1ciI6ImJsb2JfaWQifX0=--a8d220e43b304f58b8a7ac54a9182b6de8c09dfe/Osuny-tableaudebord-personnes.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/rhbbtecacmzxk07xn6whyfrk65ww
 

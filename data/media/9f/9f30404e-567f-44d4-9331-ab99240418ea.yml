@@ -5,6 +5,6 @@ width: 2560
 height: 3188
 ratio: 0.8030112923462986
 format: portrait
-url: https://demo.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjlmMzA0MDRlLTU2N2YtNDRkNC05MzMxLWFiOTkyNDA0MThlYSIsInB1ciI6ImJsb2JfaWQifX0=--d41c9fe16d5e1f6f233aa8dfa1dfb99c597cf3ea/osuny-support-enseignement-diplomes-fiche-infos.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/91t2kzpv5kfqyhhkgfv7xzqxbft3
+url: http://demo.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjlmMzA0MDRlLTU2N2YtNDRkNC05MzMxLWFiOTkyNDA0MThlYSIsInB1ciI6ImJsb2JfaWQifX0=--ab1b72965bbe7a1878d3736139531cdae6ae0d1c/osuny-support-enseignement-diplomes-fiche-infos.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/91t2kzpv5kfqyhhkgfv7xzqxbft3
 

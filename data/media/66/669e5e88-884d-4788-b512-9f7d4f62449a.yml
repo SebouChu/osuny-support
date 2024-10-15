@@ -5,6 +5,6 @@ width: 1920
 height: 1920
 ratio: 1.0
 format: square
-url: https://demo.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjY2OWU1ZTg4LTg4NGQtNDc4OC1iNTEyLTlmN2Q0ZjYyNDQ5YSIsInB1ciI6ImJsb2JfaWQifX0=--1220227d852c5298e02a55aebbe9dbdf888d2e4e/magali.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/ld63don7vjtmebcsgbn22vw6zxor
+url: http://demo.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjY2OWU1ZTg4LTg4NGQtNDc4OC1iNTEyLTlmN2Q0ZjYyNDQ5YSIsInB1ciI6ImJsb2JfaWQifX0=--2abe236df8774f88ce9ab72925f3728ab323752b/magali.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/ld63don7vjtmebcsgbn22vw6zxor
 

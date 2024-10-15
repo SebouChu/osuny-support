@@ -5,6 +5,6 @@ width: 2560
 height: 2282
 ratio: 1.1218229623137599
 format: landscape
-url: https://demo.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjhkNjMzNjNlLWY4MWEtNDUxNy1hMzZiLTdhYzY5MmNhMjBiYiIsInB1ciI6ImJsb2JfaWQifX0=--e1449eb87e06865dc96f79464c2f14506f3c8e8d/osuny-support-enseignement-enseignant-formation.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/wn4o6zw4hbfwz9tvvx9x8ghz195f
+url: http://demo.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjhkNjMzNjNlLWY4MWEtNDUxNy1hMzZiLTdhYzY5MmNhMjBiYiIsInB1ciI6ImJsb2JfaWQifX0=--8a1673fe938030f3282cd9884e0ecac6b14397c3/osuny-support-enseignement-enseignant-formation.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/wn4o6zw4hbfwz9tvvx9x8ghz195f
 

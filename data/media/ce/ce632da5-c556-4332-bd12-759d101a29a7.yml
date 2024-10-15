@@ -5,6 +5,6 @@ width: 2560
 height: 3260
 ratio: 0.7852760736196319
 format: portrait
-url: https://demo.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImNlNjMyZGE1LWM1NTYtNDMzMi1iZDEyLTc1OWQxMDFhMjlhNyIsInB1ciI6ImJsb2JfaWQifX0=--3cab3a2db6ae4e78d53fd8a37c9be6a825ee626d/osuny-support-enseignement-alumni-importer.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/ouuxnp7hz0wcax2r70wh52e5bt0b
+url: http://demo.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImNlNjMyZGE1LWM1NTYtNDMzMi1iZDEyLTc1OWQxMDFhMjlhNyIsInB1ciI6ImJsb2JfaWQifX0=--e8919ad42e503b3eee36878958b742c072e35729/osuny-support-enseignement-alumni-importer.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/ouuxnp7hz0wcax2r70wh52e5bt0b
 
