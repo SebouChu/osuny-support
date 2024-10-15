@@ -5,6 +5,6 @@ width: 2560
 height: 2318
 ratio: 1.1044003451251079
 format: landscape
-url: https://demo.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjY0NGE0YzkyLTJlOGItNGVhMS04NTliLWJiMTA2MjY4ZDc5ZiIsInB1ciI6ImJsb2JfaWQifX0=--c6b2d6e3422bfe9116fab84a379bf94e55c7abf7/Osuny-menu-exemple-menu-equipe-cree.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/4cwnho65idyzxi9rzfpu8m49lhcu
+url: http://demo.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjY0NGE0YzkyLTJlOGItNGVhMS04NTliLWJiMTA2MjY4ZDc5ZiIsInB1ciI6ImJsb2JfaWQifX0=--21b0b73755be1cece40a98451840a25c3bbb105f/Osuny-menu-exemple-menu-equipe-cree.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/4cwnho65idyzxi9rzfpu8m49lhcu
 
