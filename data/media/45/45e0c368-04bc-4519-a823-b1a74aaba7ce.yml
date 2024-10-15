@@ -5,6 +5,6 @@ width: 2098
 height: 4668
 ratio: 0.44944301628106254
 format: portrait
-url: https://demo.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjQ1ZTBjMzY4LTA0YmMtNDUxOS1hODIzLWIxYTc0YWFiYTdjZSIsInB1ciI6ImJsb2JfaWQifX0=--cd1f23063fd9844aabd79658dc3ad27a7ecd6b84/osuny-support-blocs-actualites.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/vmi50znl634kopn2qos73rw5f1sr
+url: http://demo.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjQ1ZTBjMzY4LTA0YmMtNDUxOS1hODIzLWIxYTc0YWFiYTdjZSIsInB1ciI6ImJsb2JfaWQifX0=--93cddca873686f080364a6c9674447c41b3e7a2c/osuny-support-blocs-actualites.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/vmi50znl634kopn2qos73rw5f1sr
 
