@@ -5,6 +5,6 @@ width: 2536
 height: 1366
 ratio: 1.856515373352855
 format: landscape
-url: https://demo.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjUwYWRmMTQ5LTY4MjktNDllYS1hMWM1LTg1NDdjNjU0NmI5NiIsInB1ciI6ImJsb2JfaWQifX0=--d154de93d9da9b6930ae57646720c6a313b6dcf7/Capture-d-ecran-2022-08-12-a-11-12-30.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/m1at43vlutj2b90mktuuf2oe0ctt
+url: http://demo.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjUwYWRmMTQ5LTY4MjktNDllYS1hMWM1LTg1NDdjNjU0NmI5NiIsInB1ciI6ImJsb2JfaWQifX0=--4e3ce7bd7dacde0a083352a492c6486ef176c5e3/Capture-d-ecran-2022-08-12-a-11-12-30.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/m1at43vlutj2b90mktuuf2oe0ctt
 

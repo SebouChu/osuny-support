@@ -5,6 +5,6 @@ width: 2560
 height: 4994
 ratio: 0.512615138165799
 format: portrait
-url: https://demo.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjBlODZmNjczLTZjNTgtNGY5NC05MTVjLTljMmNkOTE3NWM0OCIsInB1ciI6ImJsb2JfaWQifX0=--8871992803ce2e2daaf38f2bf3e2da0021a80e44/osuny-support-recherche-revues-nom-papiers-clic.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/x2o4x7qrhs8870le5775y69fz16u
+url: http://demo.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjBlODZmNjczLTZjNTgtNGY5NC05MTVjLTljMmNkOTE3NWM0OCIsInB1ciI6ImJsb2JfaWQifX0=--e6376b6c5a8279b01277cd60ad0dfcb79c2bdefb/osuny-support-recherche-revues-nom-papiers-clic.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/x2o4x7qrhs8870le5775y69fz16u
 

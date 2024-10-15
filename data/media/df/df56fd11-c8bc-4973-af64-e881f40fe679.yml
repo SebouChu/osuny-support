@@ -5,6 +5,6 @@ width: 2560
 height: 2282
 ratio: 1.1218229623137599
 format: landscape
-url: https://demo.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImRmNTZmZDExLWM4YmMtNDk3My1hZjY0LWU4ODFmNDBmZTY3OSIsInB1ciI6ImJsb2JfaWQifX0=--16a214e9f9c65aae6fd92dcb0ece431bf1ae190e/osuny-support-theses-liste.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/pkptv0w8diqf7w965kh021yklu8u
+url: http://demo.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImRmNTZmZDExLWM4YmMtNDk3My1hZjY0LWU4ODFmNDBmZTY3OSIsInB1ciI6ImJsb2JfaWQifX0=--db69073598e1a3faec7b72646a6cd0fbb9655256/osuny-support-theses-liste.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/pkptv0w8diqf7w965kh021yklu8u
 

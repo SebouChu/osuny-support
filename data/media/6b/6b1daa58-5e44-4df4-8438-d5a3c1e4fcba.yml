@@ -5,6 +5,6 @@ width: 2298
 height: 2104
 ratio: 1.0922053231939164
 format: landscape
-url: https://demo.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjZiMWRhYTU4LTVlNDQtNGRmNC04NDM4LWQ1YTNjMWU0ZmNiYSIsInB1ciI6ImJsb2JfaWQifX0=--a8916e303bc40eb0606e146954e4b70f524946f9/osuny-support-enseignement-ecoles-creer.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/cw4453ovm8k53osav2de13i16p08
+url: http://demo.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjZiMWRhYTU4LTVlNDQtNGRmNC04NDM4LWQ1YTNjMWU0ZmNiYSIsInB1ciI6ImJsb2JfaWQifX0=--19ec1a006afe19e5a5e91f27087c71a5392a7d68/osuny-support-enseignement-ecoles-creer.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/cw4453ovm8k53osav2de13i16p08
 

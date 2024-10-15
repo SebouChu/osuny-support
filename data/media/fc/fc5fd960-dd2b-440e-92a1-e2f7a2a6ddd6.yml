@@ -5,6 +5,6 @@ width: 2298
 height: 2708
 ratio: 0.8485967503692762
 format: portrait
-url: https://demo.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImZjNWZkOTYwLWRkMmItNDQwZS05MmExLWUyZjdhMmE2ZGRkNiIsInB1ciI6ImJsb2JfaWQifX0=--64fb7c7f2caf36d56a9590059480e4f5da8c5dc2/osuny-support-enseignement-ecoles-fiche-equipe.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/n10gcirduncvass97imjyrfw33cd
+url: http://demo.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImZjNWZkOTYwLWRkMmItNDQwZS05MmExLWUyZjdhMmE2ZGRkNiIsInB1ciI6ImJsb2JfaWQifX0=--1e12bceca48b20bb06646fb8b37dc5771d7f77b9/osuny-support-enseignement-ecoles-fiche-equipe.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/n10gcirduncvass97imjyrfw33cd
 
